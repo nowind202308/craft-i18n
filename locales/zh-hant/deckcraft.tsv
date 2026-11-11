@@ -1080,7 +1080,7 @@
 	Window title bar	視窗標題列
 	With	與
 	With:	與：
-	WordArt	藝術字
+	WordArt	文字藝術師
 	Wrap Text in Shape	在形狀中自動換行
 	Wrap text in shape	在形狀中自動換行
 	X Rotation	X 旋轉
@@ -1158,3 +1158,54 @@
 	Scroll ribbon right	向右捲動功能區
 	in	英寸
 	pt	磅
+	After	之後
+	Delay	延遲
+	Distributed	分散對齊
+	Double	雙線
+	Duration	持續時間
+	Footer	頁尾
+	Hanging	首行凸排
+	Heavy	粗線
+	Presentations	簡報
+	Resolve	解決
+	Single	單線
+	Wavy	波浪線
+	Width: 	寬度：
+	DeckCraft has no accounts: there is nothing to sign in to, and your presentations stay on your device.	DeckCraft 沒有帳戶：無須登入，您的簡報只會留在您的裝置上。
+	DeckCraft prints through a PDF: it downloads, ready to print from your browser or PDF viewer.	DeckCraft 透過 PDF 列印：檔案會下載，可從瀏覽器或 PDF 檢視器列印。
+	MIT OR Apache-2.0 · © 2026 ArtCraft Team and the DeckCraft contributors	MIT OR Apache-2.0 · © 2026 ArtCraft Team 與 DeckCraft 貢獻者
+	Accept All ({n})	全部接受 ({n})
+	Reject All ({n})	全部拒絕 ({n})
+	Action Button: {kind}	動作按鈕：{kind}
+	Body sample  {font}	本文範例  {font}
+	Heading sample  {font}	標題範例  {font}
+	Brightness {pct}	亮度 {pct}
+	Contrast {pct}	對比 {pct}
+	Saturation {pct}	飽和度 {pct}
+	Check for updates when the app starts	啟動時自動檢查官方更新
+	Choose a slide to show it, or press G to return.	選擇要顯示的投影片，或按 G 返回。
+	Clear the tab at {pos}	清除位於 {pos} 的定位點
+	Click the preview to zoom.	按一下預覽以縮放。
+	Compared with {name}	與 {name} 比較
+	Dictionary: {name}	字典：{name}
+	Duration handle {n}	持續時間控點 {n}
+	English (United States)	英文（美國）
+	Go to slide {n}	移至投影片 {n}
+	Gradient stop {n}	漸層停駐點 {n}
+	No synonyms for "{word}".	沒有「{word}」的同義詞。
+	No {lang} dictionary is installed, so only common misspellings are found. Put a Hunspell .aff/.dic pair in {folder}.	未安裝{lang}字典，因此只會找出常見的拼字錯誤。請將一組 Hunspell .aff/.dic 檔案放到 {folder}。
+	Play this slide's transition	播放此投影片的轉場
+	Preserve	保留
+	Slide {n}	投影片 {n}
+	Slide {n}: {issue}	投影片 {n}：{issue}
+	Slide {n}: {issue} — {name}	投影片 {n}：{issue} — {name}
+	Slide {n}: “{word}”	投影片 {n}：「{word}」
+	Slides Per\nPage: {n}	每頁\n投影片：{n}
+	Style {n}	樣式 {n}
+	Timing bar {n}	時間條 {n}
+	WordArt style {n}	文字藝術師樣式 {n}
+	{char}  Bullet	{char}  項目符號
+	{color} hex	{color} 十六進位
+	{kind} (click to change)	{kind}（按一下以變更）
+	{path} — this file can't be found	{path} — 找不到此檔案
+	“{name}” is not available yet.	「{name}」尚未提供。
